@@ -11,4 +11,6 @@ This application is a personal portfolio developed using Flutter and Dart. It se
 - **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Dart**: The programming language used to develop Flutter applications.
 ## Screenshots
-<img src="images/screenshot.jpg" alt="Screenshot of the application" width="300" />
+<p align="center">
+  <img src="images/screenshot.jpg" alt="Screenshot of the application" width="500" />
+</p>
