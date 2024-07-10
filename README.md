@@ -1,16 +1,12 @@
-# mi_card_flutter
+# Personal Portfolio Application
 
-A new Flutter project.
+## Overview
+This application is a personal portfolio developed using Flutter and Dart. It serves as a digital business card, showcasing some of my personal information such as my phone number and email. This project is part of a Flutter course and demonstrates key concepts of Flutter development.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- **Personal Information**: Displays my phone number and email address.
+- **User Interface Elements**: Includes interesting elements such as icons, fonts, and images to enhance learning and user experience.
+- **Simple and Intuitive Design**: The app is designed to be straightforward and easy to navigate.
+## Technologies Used
+- **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart**: The programming language used to develop Flutter applications.
