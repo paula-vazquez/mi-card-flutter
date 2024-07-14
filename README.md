@@ -12,5 +12,5 @@ This application is a personal portfolio developed using Flutter and Dart. It se
 - **Dart**: The programming language used to develop Flutter applications.
 ## Screenshots
 <p align="center">
-  <img src="images/screenshot.jpg" alt="Screenshot of the application" width="500" />
+  <img src="images/screenshot.jpg" alt="Screenshot of the application" width="400" />
 </p>
